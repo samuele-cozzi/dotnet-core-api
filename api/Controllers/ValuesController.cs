@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using api.Configuration;
+using api.Infrastructure;
 
 namespace api.Controllers
 {
